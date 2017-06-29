@@ -1,0 +1,165 @@
+[
+    {
+        "title": "MasterCart Multiplayer Car Race",
+        "folder": "MasterCartMultiplayerWeb",
+        "author": "?",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "SwimgoldfishSwim",
+        "folder": "SwimGoldfischSwim",
+        "author": "Michael Duschek",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Shepard",
+        "folder": "Shepard",
+        "author": "dberghammer",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Super Agumon Adventure",
+        "folder": "WebGlSuperAgumonAdventure",
+        "author": "?",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "MagicalJumpnRun",
+        "folder": "MagicalJumpnRun",
+        "author": "David Märzendorfer",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Leauge of Legends",
+        "folder": "LoLLegends",
+        "author": "Martin Reisinger",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "I Wanna Be The Isaac",
+        "folder": "Isaac_skoepf",
+        "author": "Samuel Köpf",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "hotline miami space edition",
+        "folder": "ptutakiewicz",
+        "author": "?",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Random Fighin Game (in progress)",
+        "folder": "Figher_Game_Web_GL",
+        "author": "?",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Undead Arcade",
+        "folder": "Undead_Arcade",
+        "author": "mkreuzmayr",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Horror Game",
+        "folder": "rhintersteininger_HorrorGame",
+        "author": "Ralf Hintersteininger",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Singleplayer monster.io",
+        "folder": "singleplayer_monster.io",
+        "author": "Manuel Schlagintweit",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Run It Down Mid",
+        "folder": "GD1Build_astuhlberger",
+        "author": "astuhlberger",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Arkanoid Game",
+        "folder": "2DGameBuild",
+        "author": "hakobian",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "I schias auf deppade Kreise",
+        "folder": "I_schias_auf_deppade_Kreise",
+        "author": "Kirchsteiger",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Batte Worms",
+        "folder": "Build_Ihettmann",
+        "author": "?",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Snake",
+        "folder": "SnakeGL",
+        "author": "Flavious Stoianov",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Forklift Simulator",
+        "folder": "Forklift_Simulator",
+        "author": "Andreas Wageneder, Elias Lexl",
+        "year": "2016_WS",
+        "info": "working in all browsers :)",
+        "status": 1
+    },
+    {
+        "title": "Mad Jacks",
+        "folder": "2DGameBuild",
+        "author": "Florian Redinger, Florian Peter",
+        "year": "2016_WS",
+        "status": 1
+    },
+    {
+        "title": "Master Cart Multiplayer Web",
+        "folder": "MasterCartMultiplayerWeb",
+        "author": "?",
+        "year": "2017_SS",
+        "status": 1
+    },
+    {
+        "title": "My Wonderful World",
+        "folder": "my-wonderful-world",
+        "author": "?",
+        "year": "2017_SS",
+        "status": 1
+    },
+    {
+    "title": "Pink Box Defenders",
+    "folder": "PinkBoxDefenders_WebGL",
+    "author": "David Märzendorfer",
+    "year": "2017_SS",
+    "status": 0
+  },
+    
+  {  
+    "title": "Robo Rover",
+    "folder": "RoboRover",
+    "author": "Michael Duschek",
+    "year": "2017_SS",
+    "status": "0"
+  }
+]
