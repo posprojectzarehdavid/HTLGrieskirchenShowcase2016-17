@@ -194,8 +194,12 @@
         "author": "David Arminger",
         "year": "2017_SS",
         "status": "1"
-    }
-
-  }
-
+    },
+     {
+      "title": "Flappy Bird",
+      "folder": "FlappyGL",
+      "author": "Flavius Stoianov",
+      "year": "2017_SS",
+      "status": 0
+  } 
 ]
