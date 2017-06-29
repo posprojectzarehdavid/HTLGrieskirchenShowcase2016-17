@@ -153,5 +153,13 @@
     "author": "David Märzendorfer",
     "year": "2017_SS",
     "status": 0
+  },
+    
+  {  
+    "title": "Robo Rover",
+    "folder": "RoboRover",
+    "author": "Michael Duschek",
+    "year": "2017_SS",
+    "status": "0"
   }
 ]
