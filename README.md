@@ -1,53 +1,50 @@
-# HTLGrieskirchenShowcase2016-17
+[![HTL-Grieskirchen](http://www.htl-grieskirchen.net/fileadmin/bilder/logo.png)](http://htl-grieskirchen.net)
+# Showcase 2016-17
+
+### [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2016-17/)
 
 The projects in this repository are for demonstration purposes only. 
 All copyrights and trademarks belong to their rightful owner.
 If there is any problem with any demo just leave a short message.
 
-
 @students:
-After uploading you project create a link in here.
+After uploading your project to the `projects-folder` update the `projects.json`.
 
-The standard base path is https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/
-from there add the path to your index.html.
+## `projects.json` properties
+```
+[
+    {  
+        "title": "project title",
+        "folder": "name of the folder",
+        "author": "my name",
+        "year": "folder name of the year",
+        "info": "info about your project",
+        "status": "0"
+    },
+    ...
+]
+```
+### title
+Project title
 
-Projects of 2016/17
-===================
+### folder
+Name of your project folder
 
-MasterCart Multiplayer Car Race
+### author
+Author(s) of the project
 
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MasterCartMultiplayerWeb/index.html
+### year
+Name of the year (must be the same as the year folder directly in the `projects` folder)
 
-SwimGoldfishSwim from Michael Duschek
+### info
+(optional) e.g. your project works in specific versions of a browser
+### status
+| status  | description        |
+| ------: | ------------------ |
+| -1      | not working        |
+| 0       | partly working     |
+| 1       | completley working |
 
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/SwimGoldfishSwim/index.html
-
-WebGL by dberghammer:
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/WebGL/index.html
-
-Super Agumon Adventure
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/WebGlSuperAgumonAdventure/index.html
-
-MagicalJumpnRun by David Märzendorfer:
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MagicalJumpnRun/index.html 
-
-Leauge of Legends ... Legends from Martin Reisinger
-
-https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/LoLLegends/index.html
-
-I Wanna Be The Isaac from Samuel Köpf
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Isaac_skoepf/index.html^
-
-hotline miami space edition
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/ptutakiewicz/index.html 
-
-Random Fightin Game (Not Functioning Yet .-.):
-
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Fighter Game Web GL/index.html
-
-
+## Create new repository (@AlfredDoppler)
+Just copy the `index.html`, `app.json` and `projects.json` to the new repository. There create a new folder called `projects` with subfolders named by year (e.g. 2017_SS) and update the `app.json` with the new values.
+### That´s it :)
