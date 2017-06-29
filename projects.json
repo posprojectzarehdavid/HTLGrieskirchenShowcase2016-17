@@ -147,4 +147,11 @@
         "year": "2017_SS",
         "status": 1
     }
+    ,{
+        "title": "Game of Live",
+        "folder": "GameOfLive",
+        "author": "Sebastian Mandl",
+        "year": "2017_SS",
+        "status": 0
+    }
 ]
