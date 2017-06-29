@@ -146,5 +146,12 @@
         "author": "?",
         "year": "2017_SS",
         "status": 1
-    }
+    },
+    {
+    "title": "Pink Box Defenders",
+    "folder": "PinkBoxDefenders_WebGL",
+    "author": "David Märzendorfer",
+    "year": "2017_SS",
+    "status": 0
+  }
 ]
