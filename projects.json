@@ -91,12 +91,19 @@
         "status": 0
     },
     {
-        "title": "Arkanoid Game",
+        "title": "Arkanoid Game - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
         "author": "hakobian",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
+    {
+      "title": "Arkanoid Game Erweiterung",
+      "folder": "2DGameBuild",
+      "author": "Zareh Hakobian",
+      "year": "2017_SS",
+      "status": 1
+    },    
     {
         "title": "I schias auf deppade Kreise - checked FF",
         "folder": "I_schias_auf_deppade_Kreise",
@@ -127,11 +134,11 @@
         "status": 1
     },
     {
-        "title": "Mad Jacks",
+        "title": "Mad Jacks - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
         "author": "Florian Redinger, Florian Peter",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
         "title": "Master Cart Multiplayer Web - checked FF",
@@ -169,7 +176,7 @@
     "status": "-1"
   },    
   {  
-    "title": "Save Se Horse",
+    "title": "Save Se Horse - checked FF,Chrome & Edge incorrect Header Exception",
     "folder": "SaveSeHorse",
     "author": "Nico Prechtl",
     "year": "2017_SS",
@@ -183,7 +190,7 @@
     "status": "1"
   },
   {
-    "title": "Just Another RPG",
+    "title": "Just Another RPG - checked FF,Chrome & Edge JSON error",
     "folder": "WebGL_JustAnotherRPG",
     "author": "Philip Frauscher",
     "year": "2017_SS",
@@ -204,11 +211,11 @@
     "status": "-1"
   },
   {  
-        "title": "Definatly Not Mario Kart 2",
+        "title": "Definatly Not Mario Kart 2 - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "Game",
         "author": "David Arminger",
         "year": "2017_SS",
-        "status": "1"
+        "status": "-1"
   },
   {
       "title": "Flappy Bird - checked FF",
@@ -216,13 +223,5 @@
       "author": "Flavius Stoianov",
       "year": "2017_SS",
       "status": 0
-  } ,
-     {
-      "title": "Arkanoid Game Erweiterung",
-      "folder": "2DGameBuild",
-      "author": "Zareh Hakobian",
-      "year": "2017_SS",
-      "status": 1
-  } 
-
+  }
 ]
