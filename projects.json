@@ -153,8 +153,7 @@
     "author": "David Märzendorfer",
     "year": "2017_SS",
     "status": 0
-  },
-    
+  },    
   {  
     "title": "Robo Rover - checked FF",
     "folder": "RoboRover",
@@ -169,9 +168,7 @@
     "author": "Michael Kreuzmayr",
     "year": "2017_SS",
     "status": "-1"
-
-  },
-    
+  },    
   {  
     "title": "Save Se Horse",
     "folder": "SaveSeHorse",
@@ -185,7 +182,14 @@
     "author": "Ingrid Lehner",
     "year": "2017_SS",
     "status": "0"
-  },    
+  },
+  {
+    "title": "Just Another RPG",
+    "folder": "WebGL_JustAnotherRPG",
+    "author": "Philip Frauscher",
+    "year": "2017_SS",
+    "status": 0
+  },  
   {  
     "title": "Mario Kart - checked FF, Chrome, Edge",
     "folder": "mario kart build",
