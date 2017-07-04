@@ -1,10 +1,10 @@
 [
     {
-        "title": "MasterCart Multiplayer Car Race",
+        "title": "MasterCart Multiplayer Car Race - checked FF",
         "folder": "MasterCartMultiplayerWeb",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
         "title": "SwimgoldfishSwim",
@@ -14,46 +14,46 @@
         "status": 1
     },
     {
-        "title": "Shepard",
+        "title": "Shepard -checked FF",
         "folder": "Shepard",
         "author": "dberghammer",
         "year": "2016_WS",
         "status": 1
     },
     {
-        "title": "Super Agumon Adventure",
+        "title": "Super Agumon Adventure - checked FF",
         "folder": "WebGlSuperAgumonAdventure",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
-        "title": "MagicalJumpnRun",
+        "title": "MagicalJumpnRun - checked FF",
         "folder": "MagicalJumpnRun",
         "author": "David Märzendorfer",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
-        "title": "Leauge of Legends",
+        "title": "Leauge of Legends - checked FF",
         "folder": "LoLLegends",
         "author": "Martin Reisinger",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
-        "title": "I Wanna Be The Isaac",
+        "title": "I Wanna Be The Isaac - checked FF",
         "folder": "Isaac_skoepf",
         "author": "Samuel Köpf",
         "year": "2016_WS",
         "status": 1
     },
     {
-        "title": "hotline miami space edition",
+        "title": "hotline miami space edition - checked FF",
         "folder": "ptutakiewicz",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
         "title": "Random Fighin Game (in progress)",
@@ -63,32 +63,32 @@
         "status": 1
     },
     {
-        "title": "Undead Arcade",
+        "title": "Undead Arcade - checked FF",
         "folder": "Undead_Arcade",
         "author": "mkreuzmayr",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
-        "title": "Horror Game",
+        "title": "Horror Game - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "rhintersteininger_HorrorGame",
         "author": "Ralf Hintersteininger",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
-        "title": "Singleplayer monster.io",
+        "title": "Singleplayer monster.io - checked FF",
         "folder": "singleplayer_monster.io",
         "author": "Manuel Schlagintweit",
         "year": "2016_WS",
         "status": 1
     },
     {
-        "title": "Run It Down Mid",
+        "title": "Run It Down Mid - checked FF",
         "folder": "GD1Build_astuhlberger",
         "author": "astuhlberger",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
         "title": "Arkanoid Game",
@@ -98,7 +98,7 @@
         "status": 1
     },
     {
-        "title": "I schias auf deppade Kreise",
+        "title": "I schias auf deppade Kreise - checked FF",
         "folder": "I_schias_auf_deppade_Kreise",
         "author": "Kirchsteiger",
         "year": "2016_WS",
@@ -112,14 +112,14 @@
         "status": 1
     },
     {
-        "title": "Snake",
+        "title": "Snake - checked FF",
         "folder": "SnakeGL",
         "author": "Flavious Stoianov",
         "year": "2016_WS",
         "status": 1
     },
     {
-        "title": "Forklift Simulator",
+        "title": "Forklift Simulator - checked FF",
         "folder": "Forklift_Simulator",
         "author": "Andreas Wageneder, Elias Lexl",
         "year": "2016_WS",
@@ -134,21 +134,21 @@
         "status": 1
     },
     {
-        "title": "Master Cart Multiplayer Web",
+        "title": "Master Cart Multiplayer Web - checked FF",
         "folder": "MasterCartMultiplayerWeb",
         "author": "?",
         "year": "2017_SS",
-        "status": 1
+        "status": 0
     },
     {
-        "title": "My Wonderful World",
+        "title": "My Wonderful World - checked FF",
         "folder": "my-wonderful-world",
         "author": "?",
         "year": "2017_SS",
-        "status": 1
+        "status": -1
     },
     {
-    "title": "Pink Box Defenders",
+    "title": "Pink Box Defenders - checked FF",
     "folder": "PinkBoxDefenders_WebGL",
     "author": "David Märzendorfer",
     "year": "2017_SS",
@@ -156,19 +156,19 @@
   },
     
   {  
-    "title": "Robo Rover",
+    "title": "Robo Rover - checked FF",
     "folder": "RoboRover",
     "author": "Michael Duschek",
     "year": "2017_SS",
-    "status": "0"
+    "status": "1"
   },
     
   {  
-    "title": "RandomZombieGame",
+    "title": "RandomZombieGame - checked FF",
     "folder": "RandomZombieGame",
     "author": "Michael Kreuzmayr",
     "year": "2017_SS",
-    "status": "0"
+    "status": "-1"
 
   },
     
@@ -181,11 +181,11 @@
   },
     
   {  
-    "title": "Mario Kart",
+    "title": "Mario Kart - checked FF, Chrome, Edge",
     "folder": "mario kart build",
     "author": "Andreas Stuhlberger",
     "year": "2017_SS",
-    "status": "0"
+    "status": "-1"
 
   },
   {  
@@ -196,7 +196,7 @@
         "status": "1"
     },
      {
-      "title": "Flappy Bird",
+      "title": "Flappy Bird - checked FF",
       "folder": "FlappyGL",
       "author": "Flavius Stoianov",
       "year": "2017_SS",
@@ -204,14 +204,7 @@
   } ,
      {
       "title": "Arkanoid Game Erweiterung",
-      "folder": "2DGameBuild ",
-      "author": "Zareh Hakobian",
-      "year": "2017_SS",
-      "status": 1
-  }  ,
-     {
-      "title": "Arkanoid Game Erweiterung",
-      "folder": "2DGameBuild ",
+      "folder": "2DGameBuild",
       "author": "Zareh Hakobian",
       "year": "2017_SS",
       "status": 1
