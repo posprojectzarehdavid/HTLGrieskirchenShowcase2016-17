@@ -180,7 +180,7 @@
     "folder": "SaveSeHorse",
     "author": "Nico Prechtl",
     "year": "2017_SS",
-    "status": "0"
+    "status": "-1"
   },
   {  
     "title": "TapGame - checked FF",
@@ -204,7 +204,7 @@
     "status": 0
    },
   {  
-    "title": "Mario Kart - checked FF, Chrome, Edge",
+    "title": "Mario Kart - checked FF, Chrome, Edge Range error",
     "folder": "mario kart build",
     "author": "Andreas Stuhlberger",
     "year": "2017_SS",
