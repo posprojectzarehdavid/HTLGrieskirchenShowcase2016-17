@@ -176,21 +176,21 @@
     "status": "0"
   },
   {  
-    "title": "TapGame",
+    "title": "TapGame - checked FF",
     "folder": "TapGame",
     "author": "Ingrid Lehner",
     "year": "2017_SS",
-    "status": "0"
+    "status": "1"
   },
   {
     "title": "Just Another RPG",
     "folder": "WebGL_JustAnotherRPG",
     "author": "Philip Frauscher",
     "year": "2017_SS",
-    "status": 0
+    "status": -1
   },  
   {
-    "title": "Game of Live",
+    "title": "Game of Live - checked FF",
     "folder": "GameOfLive",
     "author": "Sebastian Mandl",
     "year": "2017_SS",
