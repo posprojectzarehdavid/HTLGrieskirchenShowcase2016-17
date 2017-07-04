@@ -7,7 +7,7 @@
         "status": -1
     },
     {
-        "title": "SwimgoldfishSwim",
+        "title": "SwimgoldfishSwim - checked FF",
         "folder": "SwimGoldfishSwim",
         "author": "Michael Duschek",
         "year": "2016_WS",
@@ -56,11 +56,11 @@
         "status": 0
     },
     {
-        "title": "Random Fighin Game (in progress)",
+        "title": "Random Fighin Game (in progress) - checked FF",
         "folder": "Fighter_Game_Web_GL",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": -1
     },
     {
         "title": "Undead Arcade - checked FF",
@@ -105,11 +105,11 @@
         "status": 1
     },
     {
-        "title": "Batte Worms",
+        "title": "Batte Worms - checked FF",
         "folder": "Build_lhettmann",
         "author": "?",
         "year": "2016_WS",
-        "status": 1
+        "status": 0
     },
     {
         "title": "Snake - checked FF",
