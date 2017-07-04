@@ -1,387 +1,227 @@
 [
-
     {
-
-        "title": "MasterCart Multiplayer Car Race",
-
+        "title": "MasterCart Multiplayer Car Race - checked FF",
         "folder": "MasterCartMultiplayerWeb",
-
         "author": "?",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-        "title": "SwimgoldfishSwim",
-
-        "folder": "SwimGoldfischSwim",
-
+        "title": "SwimgoldfishSwim - checked FF",
+        "folder": "SwimGoldfishSwim",
         "author": "Michael Duschek",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Shepard",
-
+        "title": "Shepard -checked FF",
         "folder": "Shepard",
-
         "author": "dberghammer",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Super Agumon Adventure",
-
+        "title": "Super Agumon Adventure - checked FF",
         "folder": "WebGlSuperAgumonAdventure",
-
         "author": "?",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "MagicalJumpnRun",
-
+        "title": "MagicalJumpnRun - checked FF",
         "folder": "MagicalJumpnRun",
-
         "author": "David Märzendorfer",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "Leauge of Legends",
-
+        "title": "Leauge of Legends - checked FF",
         "folder": "LoLLegends",
-
         "author": "Martin Reisinger",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "I Wanna Be The Isaac",
-
+        "title": "I Wanna Be The Isaac - checked FF",
         "folder": "Isaac_skoepf",
-
         "author": "Samuel Köpf",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "hotline miami space edition",
-
+        "title": "hotline miami space edition - checked FF",
         "folder": "ptutakiewicz",
-
         "author": "?",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "Random Fighin Game (in progress)",
-
-        "folder": "Figher_Game_Web_GL",
-
+        "title": "Random Fighin Game (in progress) - checked FF",
+        "folder": "Fighter_Game_Web_GL",
         "author": "?",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-        "title": "Undead Arcade",
-
+        "title": "Undead Arcade - checked FF",
         "folder": "Undead_Arcade",
-
         "author": "mkreuzmayr",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "Horror Game",
-
+        "title": "Horror Game - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "rhintersteininger_HorrorGame",
-
         "author": "Ralf Hintersteininger",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-        "title": "Singleplayer monster.io",
-
+        "title": "Singleplayer monster.io - checked FF",
         "folder": "singleplayer_monster.io",
-
         "author": "Manuel Schlagintweit",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Run It Down Mid",
-
+        "title": "Run It Down Mid - checked FF",
         "folder": "GD1Build_astuhlberger",
-
         "author": "astuhlberger",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "Arkanoid Game",
-
+        "title": "Arkanoid Game - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
-
         "author": "hakobian",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-        "title": "I schias auf deppade Kreise",
-
+      "title": "Arkanoid Game Erweiterung",
+      "folder": "2DGameBuild",
+      "author": "Zareh Hakobian",
+      "year": "2017_SS",
+      "status": 1
+    },    
+    {
+        "title": "I schias auf deppade Kreise - checked FF",
         "folder": "I_schias_auf_deppade_Kreise",
-
         "author": "Kirchsteiger",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Batte Worms",
-
-        "folder": "Build_Ihettmann",
-
+        "title": "Batte Worms - checked FF",
+        "folder": "Build_lhettmann",
         "author": "?",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "Snake",
-
+        "title": "Snake - checked FF",
         "folder": "SnakeGL",
-
         "author": "Flavious Stoianov",
-
         "year": "2016_WS",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Forklift Simulator",
-
+        "title": "Forklift Simulator - checked FF",
         "folder": "Forklift_Simulator",
-
         "author": "Andreas Wageneder, Elias Lexl",
-
         "year": "2016_WS",
-
         "info": "working in all browsers :)",
-
         "status": 1
-
     },
-
     {
-
-        "title": "Mad Jacks",
-
+        "title": "Mad Jacks - checked FF,Chrome & Edge incorrect Header Exception",
         "folder": "2DGameBuild",
-
         "author": "Florian Redinger, Florian Peter",
-
         "year": "2016_WS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-        "title": "Master Cart Multiplayer Web",
-
+        "title": "Master Cart Multiplayer Web - checked FF",
         "folder": "MasterCartMultiplayerWeb",
-
         "author": "?",
-
         "year": "2017_SS",
-
-        "status": 1
-
+        "status": 0
     },
-
     {
-
-        "title": "My Wonderful World",
-
+        "title": "My Wonderful World - checked FF",
         "folder": "my-wonderful-world",
-
         "author": "?",
-
         "year": "2017_SS",
-
-        "status": 1
-
+        "status": -1
     },
-
     {
-
-    "title": "Pink Box Defenders",
-
+    "title": "Pink Box Defenders - checked FF",
     "folder": "PinkBoxDefenders_WebGL",
-
     "author": "David Märzendorfer",
-
     "year": "2017_SS",
-
     "status": 0
-
-  },
-
-    
-
+  },    
   {  
-
-    "title": "Robo Rover",
-
+    "title": "Robo Rover - checked FF",
     "folder": "RoboRover",
-
     "author": "Michael Duschek",
-
-    "year": "2017_SS",
-
-    "status": "0"
-
-  },
-
-    
-
-  {  
-
-    "title": "RandomZombieGame",
-
-    "folder": "RandomZombieGame",
-
-    "author": "Michael Kreuzmayr",
-
-    "year": "2017_SS",
-
-    "status": "0"
-
-
-
-  },
-
-    
-
-  {  
-
-    "title": "Save Se Horse",
-
-    "folder": "SaveSeHorse",
-
-    "author": "Nico Prechtl",
-
-    "year": "2017_SS",
-
-    "status": "0"
-
-  },
-
-    
-
-  {  
-
-    "title": "Mario Kart",
-
-    "folder": "mario kart build",
-
-    "author": "Andreas Stuhlberger",
-
-    "year": "2017_SS",
-
-    "status": "0"
-
-  },
-    {  
-    "title": "ArkanoidGame-Erweiterung",
-    "folder": "2DGameBuild",
-    "author": "Zareh Hakobian",
     "year": "2017_SS",
     "status": "1"
+  },    
+  {  
+    "title": "RandomZombieGame - checked FF",
+    "folder": "RandomZombieGame",
+    "author": "Michael Kreuzmayr",
+    "year": "2017_SS",
+    "status": "-1"
+  },    
+  {  
+    "title": "Save Se Horse - checked FF,Chrome & Edge incorrect Header Exception",
+    "folder": "SaveSeHorse",
+    "author": "Nico Prechtl",
+    "year": "2017_SS",
+    "status": "-1"
+  },
+  {  
+    "title": "TapGame - checked FF",
+    "folder": "TapGame",
+    "author": "Ingrid Lehner",
+    "year": "2017_SS",
+    "status": "1"
+  },
+  {
+    "title": "Just Another RPG - checked FF,Chrome & Edge JSON error",
+    "folder": "WebGL_JustAnotherRPG",
+    "author": "Philip Frauscher",
+    "year": "2017_SS",
+    "status": -1
+  },  
+  {
+    "title": "Game of Live - checked FF",
+    "folder": "GameOfLive",
+    "author": "Sebastian Mandl",
+    "year": "2017_SS",
+    "status": 0
+   },
+  {  
+    "title": "Mario Kart - checked FF, Chrome, Edge Range error",
+    "folder": "mario kart build",
+    "author": "Andreas Stuhlberger",
+    "year": "2017_SS",
+    "status": "-1"
+  },
+  {  
+        "title": "Definatly Not Mario Kart 2 - checked FF,Chrome & Edge incorrect Header Exception",
+        "folder": "Game",
+        "author": "David Arminger",
+        "year": "2017_SS",
+        "status": "-1"
+  },
+  {
+      "title": "Flappy Bird - checked FF",
+      "folder": "FlappyGL",
+      "author": "Flavius Stoianov",
+      "year": "2017_SS",
+      "status": 0
   }
-    
-    
 ]

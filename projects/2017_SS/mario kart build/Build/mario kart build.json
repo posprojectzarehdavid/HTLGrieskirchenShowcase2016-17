@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mario kart build.data.unityweb",
+"asmCodeUrl": "mario kart build.asm.code.unityweb",
+"asmMemoryUrl": "mario kart build.asm.memory.unityweb",
+"asmFrameworkUrl": "mario kart build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
