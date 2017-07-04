@@ -8,7 +8,7 @@
     },
     {
         "title": "SwimgoldfishSwim",
-        "folder": "SwimGoldfischSwim",
+        "folder": "SwimGoldfishSwim",
         "author": "Michael Duschek",
         "year": "2016_WS",
         "status": 1
@@ -57,7 +57,7 @@
     },
     {
         "title": "Random Fighin Game (in progress)",
-        "folder": "Figher_Game_Web_GL",
+        "folder": "Fighter_Game_Web_GL",
         "author": "?",
         "year": "2016_WS",
         "status": 1
@@ -106,7 +106,7 @@
     },
     {
         "title": "Batte Worms",
-        "folder": "Build_Ihettmann",
+        "folder": "Build_lhettmann",
         "author": "?",
         "year": "2016_WS",
         "status": 1
@@ -178,15 +178,13 @@
     "author": "Nico Prechtl",
     "year": "2017_SS",
     "status": "0"
-  },
-    
+  },    
   {  
     "title": "Mario Kart - checked FF, Chrome, Edge",
     "folder": "mario kart build",
     "author": "Andreas Stuhlberger",
     "year": "2017_SS",
     "status": "-1"
-
   },
   {  
         "title": "Definatly Not Mario Kart 2",
@@ -194,8 +192,8 @@
         "author": "David Arminger",
         "year": "2017_SS",
         "status": "1"
-    },
-     {
+  },
+  {
       "title": "Flappy Bird - checked FF",
       "folder": "FlappyGL",
       "author": "Flavius Stoianov",
