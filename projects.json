@@ -160,8 +160,7 @@
     "author": "Michael Duschek",
     "year": "2017_SS",
     "status": "1"
-  },
-    
+  },    
   {  
     "title": "RandomZombieGame - checked FF",
     "folder": "RandomZombieGame",
@@ -190,6 +189,13 @@
     "year": "2017_SS",
     "status": 0
   },  
+  {
+    "title": "Game of Live",
+    "folder": "GameOfLive",
+    "author": "Sebastian Mandl",
+    "year": "2017_SS",
+    "status": 0
+   },
   {  
     "title": "Mario Kart - checked FF, Chrome, Edge",
     "folder": "mario kart build",
@@ -218,4 +224,5 @@
       "year": "2017_SS",
       "status": 1
   } 
+
 ]
